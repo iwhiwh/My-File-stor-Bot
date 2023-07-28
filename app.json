@@ -6,12 +6,12 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/iwhiwh/My-File-stor-Bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
