@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello🤩😍😉😘{first}\n\nI can store private files in Specified Channel and other users can access it from special link.\n\n\n join Channel - @The_Happy_Hour_Hindi"
+      "value": "<b>○ My Channel : <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>\n○ My Group : <a href='https://t.me/Happy_Hour_Hindi'>Click Here</a></b>\n\n👉 i love you Baby ❤️😘😉🥰"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
