@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "<b>○ My Channel : <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>\n○ My Group : <a href='https://t.me/Happy_Hour_Hindi'>Click Here</a></b>\n\n👉 i love you Baby ❤️😘😉🥰"
+      "value": "<b>○ My Channel : <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>\n○ My Group : <a href='https://t.me/Happy_Hour_Hindi'>Click Here</a></b>\n\n\n<a href='https://t.me/The_Happy_Hour_Hindi'>👉 I love you Baby 😉😘🥰❤️💝</a>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
