@@ -37,7 +37,7 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "6"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.")
+START_MSG = os.environ.get("START_MESSAGE", "<b>○ My Channel : <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>\n○ My Group : <a href='https://t.me/Happy_Hour_Friends'>Click Here</a></b>\n\n\n<b><a href='https://t.me/The_Happy_Hour_Hindi'>👉 I love you Baby 😉😘🥰❤️💝</a></b>")
 try:
     ADMINS=[]
     for x in (os.environ.get("ADMINS", "5379678669").split()):
@@ -58,7 +58,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌😡Don't send me messages directly I'm only File Share bot! contact owner - @Mister_Ash"
+USER_REPLY_TEXT = "👉 मुजे मैसेज मत करों....😡 \nContact My Owner - <a href='https://t.me/Mister_Ash'>Click Here</a>"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1942168587)
