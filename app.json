@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M"
+      "value": "6432685831:AAGTokVncQiy6IYEtiYRdT30e5gYEcpnMzg"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
